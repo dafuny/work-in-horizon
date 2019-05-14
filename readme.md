@@ -28,8 +28,11 @@
 # ID 和 EXPRESSION分离出来
 ## 5.13
 - [x] render文件和lighting文件
-- [ ] 整理render流程 需要重新看一下 total paper
-- [ ] paper里有3d纹理蒙皮的 找出代码
+- [x] 整理render流程 需要重新看一下 total paper
+- [x] paper里有3d纹理蒙皮的 找出代码 *github mesh solution cpythond代码*
+## 5.14
+- [ ] render 整理成一个py文件
+- [ ] triangle 待实验('tri_refine')
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
