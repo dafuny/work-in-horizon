@@ -24,7 +24,7 @@
 - [x] 转移到mac
 - [x] id任务 *已开头，这周内做出视频demo*
 
-```
+
 # ID 和 EXPRESSION分离出来
 ## 5.13
 - [x] render文件和lighting文件
@@ -36,4 +36,3 @@
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
-```
