@@ -41,7 +41,7 @@
 - [x] 修复render自己predict的vertices文件和triangles文件 *下标错误*
 - [ ] 标数据
 - [x] 网络输出param到vertices的转换 *代码基本看懂 *
-- [ ] 阅读paper看一下训练集的准备 可能是ibug的自带的 $ /{Delta} P $ 
+- [ ] 阅读paper看一下训练集的准备 可能是ibug的自带的 \delta P 
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
