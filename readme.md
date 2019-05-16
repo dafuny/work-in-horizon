@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 > 每日清单书写规则
 >1. 一级标题为每日列表和大任务
 >2. 打钩为Done，斜体为标记的解决方案
@@ -37,6 +38,11 @@
 > 试验过所有可能 main文件 和demo文件 visualize的triangle完全不同；tri_refine文件应该为neck——remove的结果 但没有代码（待找） *main文件预测的vertices和用的tri.mat文件也无法render？？* **解决方案：重新训练模型，找出训练的运用的triangle和vertices再render试试看**
 - [x] train的target从哪里得到 怎么做这个loss-> 找到运用的triangle *target 为已经计算好的矩阵 不涉及triangle的原型*
 - [x] main文件用自己的训练模型
+## 5.16
+- [x] 修复render自己predict的vertices文件和triangles文件 *下标错误*
+- [ ] 标数据
+- [x] 网络输出param到vertices的转换 *代码基本看懂 *
+- [ ] 阅读paper看一下训练集的准备 * 可能是ibug的自带的${\Delta}P$
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
