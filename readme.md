@@ -33,7 +33,7 @@
 - [ ] render 整理成一个py文件
 - [x] triangle 待实验('tri_refine')
 ## 5.15
-- [ ] triangles 和 vertices 依然不匹配 
+- [x] triangles 和 vertices 依然不匹配 
 > 试验过所有可能 main文件 和demo文件 visualize的triangle完全不同；tri_refine文件应该为neck——remove的结果 但没有代码（待找） *main文件预测的vertices和用的tri.mat文件也无法render？？* **解决方案：重新训练模型，找出训练的运用的triangle和vertices再render试试看**
 - [x] train的target从哪里得到 怎么做这个loss-> 找到运用的triangle *target 为已经计算好的矩阵 不涉及triangle的原型*
 - [x] main文件用自己的训练模型
@@ -42,6 +42,11 @@
 - [ ] 标数据
 - [x] 网络输出param到vertices的转换 *代码基本看懂 *
 - [ ] 阅读paper看一下训练集的准备 可能是ibug的自带的 \delta P 
+# 5.17
+- [x] 数据集整理 -[x]300W -[ ] AFLW 
+- [x] rendering obama 文件-> mat
+- [ ] param 写出
+
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
