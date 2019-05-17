@@ -42,8 +42,10 @@
 - [ ] 标数据
 - [x] 网络输出param到vertices的转换 *代码基本看懂 *
 - [ ] 阅读paper看一下训练集的准备 可能是ibug的自带的 \delta P 
-# 5.17
-- [x] 数据集整理 -[x]300W -[ ] AFLW 
+##5.17
+- [x] 数据集整理 
+--[x]300W 
+--[ ] AFLW 
 - [x] rendering obama 文件-> mat
 - [ ] param 写出
 
