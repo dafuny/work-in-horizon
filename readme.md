@@ -16,7 +16,7 @@
 # 5.9 
 - [x] .sh文件改写入py文件
 - [x] training 文件
-- [ ] 训练集测试集构成  涉及文中 face profiling 
+- [x] 训练集测试集构成  涉及文中 face profiling *未找到训练机准备代码*
 
 # 5.10
 ### 未同步
@@ -39,15 +39,15 @@
 - [x] main文件用自己的训练模型
 ## 5.16
 - [x] 修复render自己predict的vertices文件和triangles文件 *下标错误*
-- [ ] 标数据
+- [x] 标数据
 - [x] 网络输出param到vertices的转换 *代码基本看懂 *
-- [ ] 阅读paper看一下训练集的准备 可能是ibug的自带的 \delta P 
+- [ ] 阅读paper看一下训练集的准备 可能是ibug的自带的 {delta} P
 ##5.17
-- [x] 数据集整理 
---[x]300W 
---[ ] AFLW 
+- [x] 数据集整理
+> - [x] 300W
+> - [ ] AFLW
 - [x] rendering obama 文件-> mat
-- [ ] param 写出
+- [x] param 写出
 
 # IK
 - [ ] 4篇papaer 重点IJCAI
