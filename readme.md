@@ -49,9 +49,9 @@
 - [x] rendering obama 文件-> mat
 - [x] param 写出
 ## 5.24
-- 【x】render cpp 文件的trianglebug
+- [x] render cpp 文件的trianglebug
 ## 5.27
--  【 】photo loss 的 render 原rgb至新图像
+-  [ ] photo loss 的 render 原rgb至新图像
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
