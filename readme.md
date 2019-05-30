@@ -49,14 +49,16 @@
 - [x] rendering obama 文件-> mat
 - [x] param 写出
 ## 5.24
-- [x] render cpp 文件的trianglebug
+- [x] render cpp 文件的trianglebug 
 ## 5.27
 - [ ] photo loss 的 render 原rgb至新图像
 ## 5.28
 - [ ] lighting 论文待看 
-- [ ] BFM 用的地方 与渲染时用的
-- [ ] texture map 生成
-- [ ] MVF 中引用12 用的方法
+- [x] BFM 用的地方 与渲染时用的
+- [x] texture map 生成
+- [x] MVF 中 直接映射
+## 5.29 
+- [x] main 文件验证映射
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
