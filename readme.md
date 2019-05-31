@@ -23,8 +23,8 @@
 # 5.13
 - [x] 转移到mac
 - [x] id任务 *已开头，这周内做出视频demo*
-
-# ID 和 EXPRESSION分离出来
+# exp id 迁移
+## **ID 和 EXPRESSION提取**
 ## 5.13
 - [x] render文件和lighting文件
 - [x] 整理render流程 需要重新看一下 total paper
@@ -50,15 +50,22 @@
 - [x] param 写出
 ## 5.24
 - [x] render cpp 文件的trianglebug 
+## **render vertices**
 ## 5.27
-- [ ] photo loss 的 render 原rgb至新图像
+- [x] photo loss 的 render 原rgb至新图像
 ## 5.28
-- [ ] lighting 论文待看 
+- [x] lighting 论文待看 **暂时放空 用mean替代**
 - [x] BFM 用的地方 与渲染时用的
 - [x] texture map 生成
 - [x] MVF 中 直接映射
 ## 5.29 
 - [x] main 文件验证映射
+## 5.30
+- [x] render 文件跑通
+## **pose parameter + exp 互换**
+## 5.31
+- [ ] vertices 和 colors 关系表 求mean（具体到是否为NA）
+- [ ] exp 迁移 需要vertices重新渲染
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
