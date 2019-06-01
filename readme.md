@@ -66,7 +66,9 @@
 ## 5.31
 - [ ] vertices 和 colors 关系表 求mean（具体到是否为NA）
 - [ ] exp 迁移 需要vertices重新渲染
-- [ ] 68 landmark -> vertices exclude in Zhu.paper
+- [x] 68 landmark -> vertices exclude in Zhu.paper *应该就是keypoint*
+## 6.1
+- [ ] 如何 68landmark 找出 occluded point *mvf中 多出的filter工作 为了精确edge 不好实现*
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
