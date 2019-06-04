@@ -69,6 +69,15 @@
 - [x] 68 landmark -> vertices exclude in Zhu.paper *应该就是keypoint*
 ## 6.1
 - [ ] 如何 68landmark 找出 occluded point *mvf中 多出的filter工作 为了精确edge 不好实现*
+## 6.3
+- [x] colors 的求解仍需优化
+## 6.4
+- [ ] 变换坐标系去求最小的z轴*逆矩阵已确定 先乘一个转置矩阵*
+- [ ] 找鼻子那个vertices
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
+
+## 待做
+ - [ ] 3DMM重新训练
+ - [ ] 用gan做图片的映射
