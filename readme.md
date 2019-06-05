@@ -71,9 +71,11 @@
 - [ ] 如何 68landmark 找出 occluded point *mvf中 多出的filter工作 为了精确edge 不好实现*
 ## 6.3
 - [x] colors 的求解仍需优化
-## 6.4
-- [ ] 变换坐标系去求最小的z轴*逆矩阵已确定 先乘一个转置矩阵*
-- [ ] 找鼻子那个vertices
+## 6.4 6.5
+- [x] 变换坐标系去求最小的z轴*逆矩阵已确定 先乘一个转置矩阵*
+- [ ] 找鼻子那个vertices  *inference if label 中还未调试好*
+- [ ] 通过鼻子的左右去判断属于左还是右
+- [x] 算出keypoint最靠左或右的旋转坐标系后的原始z轴 
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
