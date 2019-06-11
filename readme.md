@@ -78,6 +78,9 @@
 - [x] 算出keypoint最靠左或右的旋转坐标系后的原始z轴 
 ## 6.10
 - [x] 已算出colors矩阵 *待求解序列图片的mean color*
+## 6.11
+- [x] 修复旋转矩阵求解bug
+- [ ] mean colors 计算好了 vertices具体对应pixel待求解
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
