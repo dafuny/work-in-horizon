@@ -80,11 +80,16 @@
 - [x] 已算出colors矩阵 *待求解序列图片的mean color*
 ## 6.11
 - [x] 修复旋转矩阵求解bug
-- [ ] mean colors 计算好了 vertices具体对应pixel待求解
+- [x] mean colors 计算好了 vertices具体对应pixel待求解
+## 6.13
+- [ ] mean colors的render通过原始x轴进行比较 **需要在加入在z轴上上的变换后的z轴比较 感觉是精度不够问题**
+- [ ] 光流模型运行 加入render进行比较 
+
+
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
-
+- []
 ## 待做
  - [ ] 3DMM重新训练
  - [ ] 用gan做图片的映射
