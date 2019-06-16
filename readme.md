@@ -23,7 +23,7 @@
 # 5.13
 - [x] 转移到mac
 - [x] id任务 *已开头，这周内做出视频demo*
-# exp id 迁移
+# exp id transfer loss
 ## **ID 和 EXPRESSION提取**
 ## 5.13
 - [x] render文件和lighting文件
@@ -84,13 +84,15 @@
 ## 6.13
 - [x] mean colors的render通过原始x轴进行比较 **需要在加入在z轴上上的变换后的z轴比较 感觉是精度不够问题** *解决了 vertices没有转置*
 - [ ] 光流模型运行 加入render进行比较 
-# 6.14
-- [ ] pytorch版本不适应
-
+## 6.14
+- [x] pytorch版本不适应
+## 6.15
+- [ ] photoloss 原文
+- [ ] photoloss 定义
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
 - []
 ## 待做
  - [ ] 3DMM重新训练
- - [ ] 用gan做图片的映射
+ - [ ] 用gan做图片的render
