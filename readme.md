@@ -82,9 +82,10 @@
 - [x] 修复旋转矩阵求解bug
 - [x] mean colors 计算好了 vertices具体对应pixel待求解
 ## 6.13
-- [ ] mean colors的render通过原始x轴进行比较 **需要在加入在z轴上上的变换后的z轴比较 感觉是精度不够问题**
+- [x] mean colors的render通过原始x轴进行比较 **需要在加入在z轴上上的变换后的z轴比较 感觉是精度不够问题** *解决了 vertices没有转置*
 - [ ] 光流模型运行 加入render进行比较 
-
+# 6.14
+- [ ] pytorch版本不适应
 
 # IK
 - [ ] 4篇papaer 重点IJCAI
