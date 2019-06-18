@@ -62,7 +62,7 @@
 - [x] main 文件验证映射
 ## 5.30
 - [x] render 文件跑通
-## **pose parameter + exp 互换**
+## **re render**
 ## 5.31
 - [ ] vertices 和 colors 关系表 求mean（具体到是否为NA）
 - [ ] exp 迁移 需要vertices重新渲染
@@ -87,8 +87,14 @@
 ## 6.14
 - [x] pytorch版本不适应
 ## 6.15
-- [ ] photoloss 原文
-- [ ] photoloss 定义
+- [x] photoloss 原文
+- [x] photoloss 定义
+## 6.17
+- [x] bfm remove neck *新的tri模型已写好 训练不改动 render时改动*
+## **network build & training**
+## 6.18
+- [ ] training  add pwcnet
+- [ ] loss modificate *loss 基本为 3dmm param  target为？？？*
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
