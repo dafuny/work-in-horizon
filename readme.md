@@ -94,11 +94,20 @@
 ## **network build & training**
 ## 6.18
 - [ ] training  add pwcnet
-- [ ] loss modificate *loss 基本为 3dmm param  target为？？？*
+- [ ] loss modificate *loss 基本为 3dmm param*
+## 6.19
+- [x] 加载pretrain的模型
+## 6.24
+- [x] FML论文阅读
+## 6.26
+- [x] semianr - 大纲
+## 6.27
+- [ ] re-render dlib 测试
+- [ ] 写完re-render 写 
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
-- []
+- [ ] 
 ## 待做
  - [ ] 3DMM重新训练
  - [ ] 用gan做图片的render
