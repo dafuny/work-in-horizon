@@ -103,7 +103,9 @@
 - [x] semianr - 大纲
 ## 6.27
 - [ ] re-render dlib 测试
-- [ ] 写完re-render 写 
+- [ ] 写完re-render 写
+## 6.28
+- [x] dlib face detector 检测有些为零**不进行crop 保持120*120**
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
