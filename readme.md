@@ -105,7 +105,10 @@
 - [ ] re-render dlib 测试
 - [ ] 写完re-render 写
 ## 6.28
-- [x] dlib face detector 检测有些为零**不进行crop 保持120*120**
+- [x] dlib face detector 检测有些为零*不进行crop 保持120*120 直接不裁剪 用roi box*
+## 6.29
+- [x] re-render *解决了vertices 重构 tensor cuda等问题
+- [ ] re-render 剩余 get_color的操作问题（debug一下，需要重写） 渲染的img_render 未查看效果 color 还未通过原始z轴和x轴获取可视区域
 # IK
 - [ ] 4篇papaer 重点IJCAI
 - [x] 重读了ik review *1）主要强调以往的工作比较 2）**工作量较少问题** 考虑加入attention继续优化* 
